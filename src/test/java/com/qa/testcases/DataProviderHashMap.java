@@ -9,5 +9,7 @@ public class DataProviderHashMap {
 	@Test
 	public void HelloTest() {
 		System.out.println("TestNG ...........success");
+		System.out.println("Added successfully to Git");
+		System.out.println("Added successfully to Git");
 	}
 }
