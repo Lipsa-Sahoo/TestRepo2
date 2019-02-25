@@ -11,5 +11,6 @@ public class DataProviderHashMap {
 		System.out.println("TestNG ...........success");
 		System.out.println("Added successfully to Git");
 		System.out.println("Added successfully to Git");
+		System.out.println("Added successfully to Git");
 	}
 }
