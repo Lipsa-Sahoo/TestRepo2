@@ -9,5 +9,11 @@ public class DataProviderHashMap {
 	@Test
 	public void HelloTest() {
 		System.out.println("TestNG ...........success");
+		System.out.println("Added successfully to Git");
+		System.out.println("Added successfully to Git");
+		System.out.println("Added successfully to Git");
+		System.out.println("Resolving conflicts");
+		System.out.println("Resolving conflicts");
+		System.out.println("Merging conflicts from git ui");
 	}
 }
