@@ -15,5 +15,10 @@ public class DataProviderHashMap {
 		System.out.println("Resolving conflicts");
 		System.out.println("Resolving conflicts");
 		System.out.println("Merging conflicts from git ui");
+		System.out.println("Reverting........");
+		for (int i = 0; i < 3; i++) {
+			System.out.println("Merging conflicts from git ui");	
+		}
+		
 	}
 }
