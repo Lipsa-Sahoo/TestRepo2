@@ -22,6 +22,9 @@ public class DataProviderHashMap {
 			System.out.println("Merging conflicts from git ui");	
 		}
 		System.out.println("Test2 classes");
+		for (int i = 0; i < 3; i++) {
+			System.out.println("Merging conflicts from git ui");	
+		}
 		
 	}
 }

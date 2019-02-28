@@ -5,5 +5,8 @@ public class Tc1 {
 		System.out.println("Test1 classes");
 		System.out.println("Test2 classes");
 		System.out.println("Test2 classes");
+		System.out.println("Test1 classes");
+		System.out.println("Test1 classes");
+		System.out.println("Test1 classes");
 	}
 }
